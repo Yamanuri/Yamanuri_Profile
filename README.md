@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Shrinivas_Profile
+# Yamanuri_Profile
 =======
 # Getting Started with Create React App
 
